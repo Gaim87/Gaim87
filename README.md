@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I'm George and I've been working in a totally irrelevant sector all my life 😅
+Four years ago, though, I decided to study Computer Science and become a programmer!
+Next step is to find a new job and live abroad 😁
+
 <!--
 **Gaim87/Gaim87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
